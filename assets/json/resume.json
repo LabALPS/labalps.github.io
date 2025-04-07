@@ -1,0 +1,66 @@
+{
+  "basics": {
+    "name": "Loredana Schettino",
+    "label": "Research Fellow, Assistant Professor",
+    "image": "",
+    "email": "lschettino@unibz.it",
+    "phone": "",
+    "url": "",
+    "summary": "",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Bozen",
+      "countryCode": "IT",
+      "region": "Italy"
+    }
+  },
+  "work": [
+    {
+      "name": "Departement of Education, Free University of Bozen-Bolzano",
+      "position": "Research Fellow, Assistant Professor (RTDa)",
+      "url": "https://www.unibz.it/it/faculties/education/academic-staff/person/49952-loredana-schettino",
+      "startDate": "01/03/2024",
+      "endDate": "present",
+      "summary": "",
+      "highlights": ["Modelling Speech Features and Variation, Disfluency Phenomena, Phonetic Variation, Speech Processing"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Salerno, Salerno, Italy",
+      "location": "Naples, Italy",
+      "url": "https://www.dipsumdills.it/it",
+      "area": "Linguistic Studies",
+      "studyType": "PhD",
+      "startDate": "1/11/ 2018",
+      "endDate": "04/07/2022",
+      "Thesis": ["The Role of Disfluencies in Italian Discourse. Modelling and Speech Synthesis Applications"]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Franco Ferrero Award" ,
+      "date": "2023",
+      "awarder": "Associazione Nazionale Scienze della Voce",
+      "summary": "Awarded for the article 'Modeling Hesitations. Speech Synthesis Application and Evaluation' presented at the 18th AISV Conference and published in STUDI AISV 9"
+    }
+  ],
+  "languages": [
+    {
+      "language": "Italian",
+      "fluency": "Native speaker",
+      "icon": ""
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent",
+      "icon": ""
+    },
+    {
+      "language": "German",
+      "fluency": "Fluent",
+      "icon": ""
+    }
+  ]
+}
