@@ -8,7 +8,7 @@ profile:
   align: right
   image: ALPS_logo_transparent_scada_resize.png
   image_circular: false # crops the image to make it circular
-  more_info: >
+  #more_info: >
     <p><p>Working at the <a href='https://alps.projects.unibz.it/'> Alpine Laboratory of Phonetic Sciences (ALPS)</a>, collaborating with  <a href='https://www.urbaneco.unina.it/'>UrbanECO</a></p> 
     <p>Born in Castellammare di Stabia (Naples), Italy</p>
 
@@ -17,11 +17,4 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a Research Fellow (RTDa) at The Free University of Bozen-Bolzano. 
-I’m interested in exploring and modelling speech features and variability and developing ASR systems based on less but more informative data which could apply to Low-Resource Languages.
-
-I earned my PhD from the University of Salerno discussing a thesis entitled “The Role of Disfluencies in Italian Discourse. Modelling and Speech Synthesis Applications”.
-Then, I worked as a post-doc researcher at the University of Naples Federico II on the project “Language models for speech synthesis aimed at presenting cultural content” within the context of the VISIT3D project (Virtual Interactive System for the Implementation of Tours in 3D). 
-
-My research interests include the communicative value of linguistic phenomena that characterize natural speech such as disfluencies and variation in the degree of phonic specification with a focus on related implementations in speech technologies. 
-
+Since its establishment in 2010, ALPS has been expanded and enhanced, and is now home to a range of advanced technologies and tools. The lab has a strong focus on laboratory phonology, the study of articulation, acoustics, and perception of the sounds of human language. However, its affiliation with the Faculty of Education of the Free University of Bozen-Bolzano provides a strong academic framework for conducting projects in related fields of research. A great emphasis is given to projects in the field of sociophonetics, the study of how language varies according to social factors, such as age, gender, and region.
