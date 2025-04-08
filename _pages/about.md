@@ -6,7 +6,7 @@ subtitle:  <a href='https://www.unibz.it/home'> Free University of Bozen</a>.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: ALPS_logo_transparent_scada_resize.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p><p>Working at the <a href='https://alps.projects.unibz.it/'> Alpine Laboratory of Phonetic Sciences (ALPS)</a>, collaborating with  <a href='https://www.urbaneco.unina.it/'>UrbanECO</a></p> 
