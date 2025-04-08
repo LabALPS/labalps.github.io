@@ -8,9 +8,7 @@ profile:
   align: right
   image: ALPS_logo_transparent_scada_resize.png
   image_circular: false # crops the image to make it circular
-  #more_info: >
-    <p><p>Working at the <a href='https://alps.projects.unibz.it/'> Alpine Laboratory of Phonetic Sciences (ALPS)</a>, collaborating with  <a href='https://www.urbaneco.unina.it/'>UrbanECO</a></p> 
-    <p>Born in Castellammare di Stabia (Naples), Italy</p>
+  
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
