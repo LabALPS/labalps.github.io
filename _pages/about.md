@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Home
+title: home
 permalink: /
 subtitle:  <a href='https://www.unibz.it/home'> Free University of Bozen</a>
 
