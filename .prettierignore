@@ -9,3 +9,15 @@ assets/plotly/demo.html
 lighthouse_results/**
 _posts/2015-10-20-math.md
 _sass/font-awesome/*.scss
+
+# build / cache
+_site/
+public/
+vendor/
+node_modules/
+
+# file che non devono essere modificati
+google*.html
+*.code-workspace
+lighthouse_results/
+assets/js/search/*.js
