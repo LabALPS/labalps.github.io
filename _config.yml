@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
+title: "ALPS – Alpine Laboratory of Phonetic Sciences" # the website title (if blank, full name will be used instead)
 first_name: ALPS
 middle_name:
 last_name: research lab 
@@ -16,10 +16,15 @@ lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ALPS_logo_transparent_scada_resized2.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://labalps.github.io # the base hostname & protocol for your site
-baseurl: / # the subpath of your site, e.g. /blog/. Leave blank for root
+baseurl: "" # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 back_to_top: true # set to false to disable the back to top button
+
+serve_og_meta: true
+serve_schema_org: true
+jekyll-minifier:
+  exclude: ["robots.txt", "google*.html", "assets/js/search/*.js"]
 
 # -----------------------------------------------------------------------------
 # Theme
@@ -123,8 +128,7 @@ pirsch_analytics: # your Pirsch analytics site ID (length 32 characters)
 
 # For Google Search Console, see https://support.google.com/webmasters/answer/9008080?hl=en#meta_tag_verification&zippy=%2Chtml-tag
 enable_google_verification: true
-
-google_site_verification: # your google-site-verification ID (Google Search Console)
+google_site_verification: aNqOCa7eT1WQ-kwX_K5CKjpTHtH-uKHMWE0TwQ76Pl8 # your google-site-verification ID (Google Search Console)
 bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 
 # -----------------------------------------------------------------------------
