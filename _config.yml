@@ -223,7 +223,9 @@ kramdown:
       start_line: 1
 
 # Includes & excludes
-include: ["_pages/", "_news/_pages/"]
+include: 
+- _pages/ 
+- _news/_pages/
 exclude:
 - BACKUP/
 - repositories.md
