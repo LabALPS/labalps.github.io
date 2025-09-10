@@ -6,3 +6,41 @@
  "url":"https://labalps.github.io/",
  "logo":"https://labalps.github.io/assets/img/ALPS_logo_transparent_scada_resized2.png"}
 </script>
+
+<style>
+    #navbarNav .navbar-nav .nav-link { padding: .25rem .5rem; }
+  </style>
+  
+  <script>
+  document.addEventListener('DOMContentLoaded', function () {
+    const list = document.querySelector('#navbarNav .navbar-nav');
+    if (!list) return;
+  
+    const items = [
+      { text: 'Laboratory',   href: '/laboratory/' },
+      { text: 'Research',     href: '/research/'   },
+      { text: 'Members',      href: '/members/'    },
+      { text: 'Publications', href: '/publications/' }
+    ];
+  
+    const searchLi = document.querySelector('#navbarNav #search-toggle')?.closest('li');
+  
+    items.forEach(({ text, href }) => {
+      if (list.querySelector(`a[href="${href}"]`)) return;
+  
+      const li = document.createElement('li');
+      li.className = 'nav-item';
+  
+      const a = document.createElement('a');
+      a.className = 'nav-link';
+      a.href = href;
+      a.textContent = text;
+  
+      li.appendChild(a);
+  
+      if (searchLi) list.insertBefore(li, searchLi);
+      else list.appendChild(li);
+    });
+  });
+  </script>
+  
