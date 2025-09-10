@@ -195,14 +195,6 @@ collections:
     output: false
     permalink: /:collection/:title/
 
-defaults:
-  - scope:
-      path: "_news/_pages"
-      type: "news"
-    values:
-      layout: page
-      output: true
-
 announcements:
   enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
