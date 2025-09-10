@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-nav: true
+nav: false
 nav_order: 1
 subtitle:  <a href='https://www.unibz.it/home'> Free University of Bozen</a>
 
