@@ -1,7 +1,9 @@
 ---
 layout: about
 title: Home
-permalink: /
+permalink: /about/
+nav: true
+nav_order: 1
 subtitle:  <a href='https://www.unibz.it/home'> Free University of Bozen</a>
 
 profile:
