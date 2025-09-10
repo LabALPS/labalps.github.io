@@ -6,49 +6,42 @@
  "url":"https://labalps.github.io/",
  "logo":"https://labalps.github.io/assets/img/ALPS_logo_transparent_scada_resized2.png"}
 </script>
+
+<!-- Links in navbar, a destra vicino alla search -->
 <style>
-    .navbar .navbar-nav { gap: .75rem; }
-    .navbar .navbar-nav .nav-link { padding: .25rem .25rem; }
-  </style>
-  
-  <script>
-  document.addEventListener('DOMContentLoaded', function () {
-    const links = [
-      { title: 'Laboratory', href: '{{ "/laboratory/" | relative_url }}' },
-      { title: 'Research',   href: '{{ "/research/"   | relative_url }}' },
-      { title: 'Members',    href: '{{ "/members/"    | relative_url }}' },
+  .navbar .navbar-nav {
+    margin-left: auto;   /* spinge i link a destra */
+    gap: .75rem;
+  }
+  .navbar .navbar-nav .nav-link { padding: .25rem .5rem; }
+</style>
+
+<script>
+(function () {
+  // aggiunge i link quando la navbar è disponibile (anche se viene montata dopo)
+  function addLinks() {
+    var nav = document.querySelector('.navbar .navbar-nav');
+    if (!nav) return false;
+
+    var items = [
+      { t: 'Laboratory', h: '{{ "/laboratory/" | relative_url }}' },
+      { t: 'Research',   h: '{{ "/research/"   | relative_url }}' },
+      { t: 'Members',    h: '{{ "/members/"    | relative_url }}' }
     ];
-  
-    const collapse = document.querySelector('.navbar .navbar-collapse, .navbar-collapse');
-    let nav = document.querySelector('.navbar .navbar-nav');
-  
-    if (!nav && collapse) {
-      nav = document.createElement('ul');
-      nav.className = 'navbar-nav ms-auto ml-auto'; // ms-auto (BS5) / ml-auto (BS4)
-      const icons = document.querySelector('.navbar .navbar-icons, .navbar .navbar-right');
-      if (icons) {
-        collapse.insertBefore(nav, icons);
-      } else {
-        collapse.appendChild(nav);
-      }
-    }
-  
-    if (!nav) return;
-  
-    nav.classList.add('ms-auto', 'ml-auto');
-  
-    const hasHref = (h) => !!nav.querySelector(`a[href="${h}"]`);
-  
-    links.forEach(({ title, href }) => {
-      if (hasHref(href)) return;
-      const li = document.createElement('li');
-      li.className = 'nav-item';
-      const a = document.createElement('a');
-      a.className = 'nav-link';
-      a.href = href;
-      a.textContent = title;
-      li.appendChild(a);
-      nav.appendChild(li);
+
+    items.forEach(function (it) {
+      if (nav.querySelector('a[href="' + it.h + '"]')) return; // evita duplicati
+      var li = document.createElement('li'); li.className = 'nav-item';
+      var a  = document.createElement('a'); a.className = 'nav-link'; a.href = it.h; a.textContent = it.t;
+      li.appendChild(a); nav.appendChild(li);
     });
-  });
-  </script>
+    return true;
+  }
+
+  if (!addLinks()) {
+    var tries = 0, timer = setInterval(function () {
+      if (addLinks() || ++tries > 50) clearInterval(timer); // ritenta per ~5s
+    }, 100);
+  }
+})();
+</script>
