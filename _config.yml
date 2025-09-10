@@ -189,7 +189,7 @@ collections:
   news:
     defaults:
       layout: post
-    output: false
+    output: true
     permalink: /:collection/:title/
   projects:
     output: false
@@ -223,7 +223,8 @@ kramdown:
       start_line: 1
 
 # Includes & excludes
-include: ["_news/_pages"]
+include: 
+- _pages/ 
 exclude:
 - BACKUP/
 - repositories.md
