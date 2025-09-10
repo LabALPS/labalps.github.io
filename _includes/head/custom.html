@@ -6,41 +6,59 @@
  "url":"https://labalps.github.io/",
  "logo":"https://labalps.github.io/assets/img/ALPS_logo_transparent_scada_resized2.png"}
 </script>
-
 <style>
-    #navbarNav .navbar-nav .nav-link { padding: .25rem .5rem; }
+    #navbarNav .custom-links { gap:.75rem; }
+    #navbarNav .custom-links .nav-link { padding:.25rem .5rem; }
+    @media (max-width: 575.98px){
+      #navbarNav .custom-links { display:none !important; }
+    }
   </style>
   
   <script>
-  document.addEventListener('DOMContentLoaded', function () {
-    const list = document.querySelector('#navbarNav .navbar-nav');
-    if (!list) return;
+  (function addTopLinks(){
+    
+    var collapse = document.querySelector('#navbarNav');
+    if (!collapse) return setTimeout(addTopLinks, 50);
   
-    const items = [
-      { text: 'Laboratory',   href: '/laboratory/' },
-      { text: 'Research',     href: '/research/'   },
-      { text: 'Members',      href: '/members/'    },
-      { text: 'Publications', href: '/publications/' }
+    var list = collapse.querySelector('.navbar-nav');
+    if (!list) {
+      list = document.createElement('ul');
+      list.className = 'navbar-nav ml-auto flex-nowrap';
+      collapse.appendChild(list);
+    }
+  
+
+    if (collapse.querySelector('.custom-links')) return;
+  
+    var links = [
+      { text:'Laboratory',   href:'{{ "/laboratory/"   | relative_url }}' },
+      { text:'Research',     href:'{{ "/research/"     | relative_url }}' },
+      { text:'Members',      href:'{{ "/members/"      | relative_url }}' },
+      { text:'Publications', href:'{{ "/publications/" | relative_url }}' },
     ];
   
-    const searchLi = document.querySelector('#navbarNav #search-toggle')?.closest('li');
+    var ul = document.createElement('ul');
+    ul.className = 'navbar-nav ml-auto flex-nowrap custom-links';
   
-    items.forEach(({ text, href }) => {
-      if (list.querySelector(`a[href="${href}"]`)) return;
-  
-      const li = document.createElement('li');
+    links.forEach(function(item){
+      if (collapse.querySelector('a.nav-link[href="'+item.href+'"]')) return;
+      var li = document.createElement('li');
       li.className = 'nav-item';
-  
-      const a = document.createElement('a');
+      var a = document.createElement('a');
       a.className = 'nav-link';
-      a.href = href;
-      a.textContent = text;
-  
+      a.href = item.href;
+      a.textContent = item.text;
       li.appendChild(a);
-  
-      if (searchLi) list.insertBefore(li, searchLi);
-      else list.appendChild(li);
+      ul.appendChild(li);
     });
-  });
+  
+    var searchBtn = collapse.querySelector('#search-toggle');
+    var insertBefore = searchBtn ? searchBtn.closest('li') : null;
+    if (insertBefore && insertBefore.parentElement === collapse.querySelector('.navbar-nav')) {
+      insertBefore.parentElement.insertBefore(ul, insertBefore);
+    } else {
+      list.appendChild(ul);
+    }
+  })();
   </script>
   
