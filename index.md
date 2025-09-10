@@ -4,8 +4,6 @@ title: "ALPS – Alpine Laboratory of Phonetic Sciences"
 permalink: /
 ---
 
-# ALPS – Alpine Laboratory of Phonetic Sciences
-
 The **Alpine Laboratory of Phonetic Sciences (ALPS)** is a research group focused on **phonetics** and **speech technology**.  
 We investigate how speech sounds are produced and perceived, and we build tools for **automatic speech recognition (ASR)**, **forced alignment** for both standard and **low-resource** languages and dialects.
 
