@@ -34,9 +34,6 @@ Free University of Bozen-Bolzano
 [Aleese Block (Post-Doc Researcher)](https://www.en.phonetik.uni-muenchen.de/people/staff/block_aleese/index.html)
 Ludwig Maximilians Universität München
 
-[Ilaria Chizzoni (Research Assistant)](https://www.unibz.it/it/faculties/education/academic-staff/person/48165-ilaria-chizzoni)
-Free University of Bozen-Bolzano
-
 [Daniela Mereu (Scientific Consultant)](https://www.lingue.unito.it/do/docenti.pl/Alias?daniela.mereu#tab-profilo)
 University of Turin
 
