@@ -2,6 +2,6 @@
 permalink: /robots.txt
 ---
 User-agent: *
-Disallow:
+Allow: /
 
 Sitemap: https://labalps.github.io/sitemap.xml
