@@ -224,7 +224,8 @@ kramdown:
 
 # Includes & excludes
 include: 
-- _pages/ 
+- _pages/
+- sitemap.xml
 exclude:
 - BACKUP/
 - repositories.md
