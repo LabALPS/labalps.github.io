@@ -41,6 +41,8 @@ Associate Professor, University of Bozen-Bolzano. PhD in Linguistics at the Univ
 
 **Former members**
 
+Salvatore Gianninò
+
 Ilaria Chizzoni
 
 Sara Picciau
