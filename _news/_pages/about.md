@@ -24,7 +24,7 @@ Since its establishment in 2010, ALPS has been expanded and enhanced, and is now
 <!--   <ul>
     
   </ul> -->
-We are located at Piazza Università 1, 39100 Bozen, Italy.<br/>
+We are located in Bozen, Italy.<br/>
   
 <a href="https://github.com/LabALPS"><i class="fab fa-github"></i> labALPS</a>
 
