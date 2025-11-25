@@ -14,7 +14,7 @@ PhD in theoretical linguistics and in sociolinguistics at the University of Pavi
 
 - +39 0471 012452
 - alessandro.vietti@unibz.it
-- Personal Page
+- [Personal Page](https://sites.google.com/site/avietti/home)
 
 ---
 
