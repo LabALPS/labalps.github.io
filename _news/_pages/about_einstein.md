@@ -12,15 +12,19 @@ Since its establishment in 2010, ALPS has been expanded and enhanced, and is now
 Welcome! We are the Alpine Laboratory of Phonetic Sciences at the Faculty of Education of the Free University of Bozen-Bolzano. 
 Since its establishment in 2010, ALPS has been expanded and enhanced, and is now home to a range of advanced technologies and tools for phonetic research. 
 
-The research lab has a strong focus on laboratory phonology aiming at documenting and studying the sound dimension of spoken language, both in its production and perception. 
+The research lab has a strong focus on laboratory phonology aiming at documenting and studying the sound dimension of spoken language, both in its production and perception, by adopting experimental methods. 
 
-Experimental methods and a variety of data collection methods: audio recordings of the voice, Ultrasound Tongue Imaging data, perceptual tests, electrical signals of vocal fold activity, etc.
-Our areas of research are the documentation of sound systems (Ladin, Italian, German, German dialects, Sardinian), bilingual speech, language acquisition, and speech technologies. ALPS's activity also has a significant impact outside of phonetic research, with applications in education, clinical practice, and technology. 
 
-Modelling and computational approaches
+Our areas of research involve:
+- the documentation of sound systems (Ladin, Italian, German, German dialects, Sardinian), 
+- Modelling and computational approaches speech technologies
+- Phonetic education bilingual speech, language acquisition,
+ALPS's activity also has a significant impact outside of phonetic research, with applications in education, clinical practice, and technology. 
 
-Phonetic education
+
 
 
 
  A great emphasis is given to projects in the field of sociophonetics, the study of how language varies according to social factors, such as age, gender, and region.
+ 
+ Experimental methods and a variety of data collection methods: audio recordings of the voice, Ultrasound Tongue Imaging data, perceptual tests, electrical signals of vocal fold activity, etc.

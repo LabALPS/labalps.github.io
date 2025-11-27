@@ -4,7 +4,7 @@ title: Home
 permalink: /
 nav: false
 nav_order: 1
-subtitle:  <a href='https://www.unibz.it/home'> Free University of Bozen</a>
+subtitle:  <a href='https://www.unibz.it/home'> Free University of Bozen-Bolzano</a>
 
 profile:
   align: right
