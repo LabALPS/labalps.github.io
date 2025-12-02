@@ -8,7 +8,7 @@ nav_order: 3
 
 **Members of the Lab**
 
-**Alessandro Vietti**
+[**Alessandro Vietti**](https://sites.google.com/site/avietti/home)
 
 PhD in theoretical linguistics and in sociolinguistics at the University of Pavia. His research interests include quantitative analysis of natural speech, with the aim of understanding phonetic variation and its implications for linguistic theory; combining experimental methods with advanced quantitative analysis to model speech production and perception. After taking a tenured researcher position at the Free University of Bolzano he set up a laboratory of phonetics and specialized in the ultrasound tongue imaging technique.
 
