@@ -22,8 +22,9 @@ PhD in theoretical linguistics and in sociolinguistics at the University of Pavi
 
 Associate Professor, University of Bozen-Bolzano. PhD in Linguistics at the University of Pavia in the framework of an international agreement with the universities Freie Universität Berlin and Universität Erfurt. Since September 2021 Associate professor of language education at the Faculty of education, Free University of Bolzano-Bozen. His current research interests include language acquisition and teaching, with special emphasis on pronunciation.
 
-- lorenzo.spreafico@unibz.it
 - +39 0472 014371
+- lorenzo.spreafico@unibz.it
+- [Personal Page](https://www.unibz.it/it/faculties/education/academic-staff/person/13255-lorenzo-spreafico)
 
 ---
 
