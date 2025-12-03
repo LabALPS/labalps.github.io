@@ -56,7 +56,7 @@ PhD Student, Free Univeristy of Bozen-Bolzano. My research focuses on low-resour
 ***Former members***
 
 - Salvatore Gianninò
--  Ilaria Chizzoni
+- Ilaria Chizzoni
 - Sara Picciau
 - Fabio Ardolino
 - Daniela Mereu
