@@ -16,7 +16,7 @@ Additionally, the facility features probe-stabilization helmets, which are used 
 
 ---
 
-#### Software
+### Software
 
 - **AAA** Articulate Instruments Ltd software used to elicit, record, and analyze UTI data.
 
@@ -32,7 +32,7 @@ Additionally, the facility features probe-stabilization helmets, which are used 
 
 ---
 
-#### Hardware
+### Hardware
 
 - **Puma Pro30**
 Soundproof chamber. This soundproof chamber is an essential part of the equipment. Thanks to its structure, lined with a sound absorbent material to minimize reflections, it provides a noise-reduced and echo-free environment. The cabin is used for speech recordings that require highly controlled acoustic conditions. [Technical sheet](https://www.pumasrl.it/attach/PRO-30-EN-2022.pdf)

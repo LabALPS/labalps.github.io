@@ -6,7 +6,7 @@ nav: true
 nav_order: 3
 ---
 
-***Members of the Lab***
+### Members of the Lab
 
 [**Alessandro Vietti**](https://sites.google.com/site/avietti/home)
 
@@ -53,7 +53,7 @@ PhD Student, Free Univeristy of Bozen-Bolzano. My research focuses on low-resour
 
 ---
 
-***Former members***
+### Former members
 
 - Salvatore Gianninò
 - Ilaria Chizzoni
