@@ -34,6 +34,7 @@ Associate Professor, University of Bozen-Bolzano. PhD in Linguistics at the Univ
 Researcher (RTD-A), Free Univeristy of Bozen-Bolzano. PhD in Linguistics at the University of Salerno (2018-2022), visiting researcher at the University of Bielefeld (2020), Post-doc researcher at the University of Naples Federico II (2022-2023). My research interests include the communicative value of linguistic phenomena that characterize natural speech such as disfluencies and phonetic variation with a focus on integrating linguistic and phonetic knowledge into speech technologies.
 
 - loredana.schettino@unibz.it
+
 ---
 
 [**Andrea Brugnoli**](https://www.unibz.it/it/faculties/education/academic-staff/person/50727-andrea-brugnoli)
