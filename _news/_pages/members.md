@@ -18,7 +18,8 @@ PhD in theoretical linguistics and in sociolinguistics at the University of Pavi
 
 ---
 
-**Lorenzo Spreafico**
+[**Lorenzo Spreafico**](https://www.unibz.it/it/faculties/education/academic-staff/person/13255-lorenzo-spreafico)
+
 
 Associate Professor, University of Bozen-Bolzano. PhD in Linguistics at the University of Pavia in the framework of an international agreement with the universities Freie Universität Berlin and Universität Erfurt. Since September 2021 Associate professor of language education at the Faculty of education, Free University of Bolzano-Bozen. His current research interests include language acquisition and teaching, with special emphasis on pronunciation.
 
@@ -28,15 +29,26 @@ Associate Professor, University of Bozen-Bolzano. PhD in Linguistics at the Univ
 
 ---
 
-**Loredana Schettino**
+[**Loredana Schettino**](https://schettilo.github.io/)
+
+Researcher (RTD-A), Free Univeristy of Bozen-Bolzano. PhD in Linguistics at the University of Salerno (2018-2022), visiting researcher at the University of Bielefeld (2020), Post-doc researcher at the University of Naples Federico II (2022-2023). My research interests include the communicative value of linguistic phenomena that characterize natural speech such as disfluencies and phonetic variation with a focus on integrating linguistic and phonetic knowledge into speech technologies.
+
+- loredana.schettino@unibz.it
+---
+
+[**Andrea Brugnoli**](https://www.unibz.it/it/faculties/education/academic-staff/person/50727-andrea-brugnoli)
+
+Post-Doc Researcher, Free Univeristy of Bozen-Bolzano.
+
+- andrea.brugnoli@unibz.it
 
 ---
 
-**Andrea Brugnoli**
+[**Domenico De Cristofaro**](https://www.unibz.it/it/faculties/education/phd-linguistics/phd-students/phd/52463-domenico-de-cristofaro)
 
----
+PhD Student, Free Univeristy of Bozen-Bolzano. My research focuses on low-resource languages and dialects (such as Tyrolean), with an emphasis on interpretability of speech foundation models to enable more effective and guided fine-tuning.
 
-**Domenico De Cristofaro**
+- ddecristofaro@unibz.it
 
 ---
 
