@@ -23,7 +23,7 @@ The primary focus of our research lab is to study the sound dimension of spoken 
 
 Our research areas include:
 - the documentation of sound systems, the variation in the articulation, acoustic characteristics, and their use in conveying social information; 
-- speech modelling, the linguistic exploration of spoken language representations produced by deep learning models for more interpretable models and Low Resource Language applications; 
+- speech modelling, the linguistic exploration of spoken language representations produced by deep learning models for more interpretable model performance and Low Resource Language applications; 
 - educational phonetics, encompassing the theory, policy, and practice of teaching and learning the sounds of Italian, as well as how these sounds function within the phonological system of Italian.
 
 ALPS's activities also have a significant impact beyond phonetic research, with applications in education, clinical practice and speech technology.
