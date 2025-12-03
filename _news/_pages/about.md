@@ -17,7 +17,17 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Since its establishment in 2010, the Alpine Laboratory of Phonetic Sciences has been expanded and enhanced, and is now home to a range of advanced technologies and tools. The lab has a strong focus on laboratory phonology, the study of articulation, acoustics, and perception of the sounds of human language. However, its affiliation with the Faculty of Education of the Free University of Bozen-Bolzano provides a strong academic framework for conducting projects in related fields of research. A great emphasis is given to projects in the field of sociophonetics, the study of how language varies according to social factors, such as age, gender, and region.
+Welcome! We are the Alpine Laboratory of Phonetic Sciences at the Faculty of Education at the Free University of Bozen-Bolzano. Since its establishment in 2010, ALPS has been expanded and enhanced and is now home to a range of advanced technologies and tools for phonetic research.
+
+The primary focus of our research lab is to study the sound dimension of spoken language, both in its production and perception, by adopting experimental methods. 
+
+Our research areas include:
+- the documentation of sound systems, the variation in the articulation, acoustic characteristics, and their use in conveying social information; 
+- speech modelling, the linguistic exploration of spoken language representations produced by deep learning models for more interpretable models and Low Resource Language applications; 
+- educational phonetics, encompassing the theory, policy, and practice of teaching and learning the sounds of Italian, as well as how these sounds function within the phonological system of Italian.
+
+ALPS's activities also have a significant impact beyond phonetic research, with applications in education, clinical practice and speech technology.
+
    
 
 <div class="projects">
