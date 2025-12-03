@@ -55,17 +55,17 @@ PhD Student, Free Univeristy of Bozen-Bolzano. My research focuses on low-resour
 
 ***Former members***
 
--Salvatore Gianninò
--Ilaria Chizzoni
--Sara Picciau
--Fabio Ardolino
--Daniela Mereu
--Chiara Meluzzi
--Constantijn Kaland
--Vincenzo Galatà
--Maria Chiara Felloni
--Conceição Cuhna
--Lia Saki Bučar Shigemori
+- Salvatore Gianninò
+-  Ilaria Chizzoni
+- Sara Picciau
+- Fabio Ardolino
+- Daniela Mereu
+- Chiara Meluzzi
+- Constantijn Kaland
+- Vincenzo Galatà
+- Maria Chiara Felloni
+- Conceição Cuhna
+- Lia Saki Bučar Shigemori
 
 
 
