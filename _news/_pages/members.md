@@ -6,7 +6,7 @@ nav: true
 nav_order: 3
 ---
 
-**Members of the Lab**
+***Members of the Lab***
 
 [**Alessandro Vietti**](https://sites.google.com/site/avietti/home)
 
