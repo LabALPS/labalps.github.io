@@ -39,7 +39,7 @@ Researcher (RTD-A), Free Univeristy of Bozen-Bolzano. PhD in Linguistics at the 
 
 [**Andrea Brugnoli**](https://www.unibz.it/it/faculties/education/academic-staff/person/50727-andrea-brugnoli)
 
-Post-Doc Researcher, Free Univeristy of Bozen-Bolzano.
+Post-Doc Researcher at the Free University of Bozen-Bolzano. PhD in Linguistics at the University of Verona in joint agreement with the University of Marburg (2024). My research interests include the phonology and phonetics of Italian and German, specifically with regard to word stress and syllable weight. More recently, I have been working on the description and analysis of the Sardinian vowel system, with a particular focus on diphthongs.
 
 - andrea.brugnoli@unibz.it
 
