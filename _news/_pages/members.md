@@ -6,13 +6,14 @@ nav: true
 nav_order: 3
 ---
 
-### Members of the Lab
-
+<div class="text-center">
 {% include figure.liquid path="assets/img/ALPS_logo_transparent_scada_resize.png" class="img-fluid rounded z-depth-1" width="50%" %}
-
+</div>
 <div class="caption">
     Our team
 </div>
+
+### Members of the Lab
 
 [**Alessandro Vietti**](https://sites.google.com/site/avietti/home)
 
