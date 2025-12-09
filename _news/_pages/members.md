@@ -4,15 +4,15 @@ title: Members
 permalink: /members/
 nav: true
 nav_order: 3
-
-profile:
-  align: left
-  image: ALPS_logo_transparent_scada_resize.png
-  image_circular: true # crops the image to make it circular
-
 ---
 
 ### Members of the Lab
+
+{% include figure.liquid path="assets/img/ALPS_logo_transparent_scada_resize.png" class="img-fluid rounded z-depth-1" width="50%" %}
+
+<div class="caption">
+    Our team
+</div>
 
 [**Alessandro Vietti**](https://sites.google.com/site/avietti/home)
 
