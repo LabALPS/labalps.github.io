@@ -4,6 +4,12 @@ title: Members
 permalink: /members/
 nav: true
 nav_order: 3
+
+profile:
+  align: left
+  image: ALPS_logo_transparent_scada_resize.png
+  image_circular: true # crops the image to make it circular
+
 ---
 
 ### Members of the Lab
