@@ -13,7 +13,7 @@ nav_order: 3
     Our team
 </div>
 
-### Members of the Lab
+
 
 [**Alessandro Vietti**](https://sites.google.com/site/avietti/home)
 
@@ -54,7 +54,7 @@ Post-Doc Researcher at the Free University of Bozen-Bolzano. PhD in Linguistics 
 
 [**Domenico De Cristofaro**](https://www.unibz.it/it/faculties/education/phd-linguistics/phd-students/phd/52463-domenico-de-cristofaro)
 
-PhD Student, Free Univeristy of Bozen-Bolzano. My research focuses on low-resource languages and dialects (such as Tyrolean), with an emphasis on interpretability of speech foundation models to enable more effective and guided fine-tuning.
+PhD Student, Free University of Bozen-Bolzano. My research focuses on low-resource languages and dialects (such as Tyrolean), with an emphasis on interpretability of speech foundation models to enable more effective and guided fine-tuning.
 
 - ddecristofaro@unibz.it
 
