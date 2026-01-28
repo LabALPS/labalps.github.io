@@ -38,7 +38,7 @@ Associate Professor, University of Bozen-Bolzano. PhD in Linguistics at the Univ
 
 [**Loredana Schettino**](https://schettilo.github.io/)
 
-Researcher (RTD-A), Free Univeristy of Bozen-Bolzano. PhD in Linguistics at the University of Salerno (2022), visiting researcher at the University of Bielefeld (2020), Post-doc researcher at the University of Naples Federico II (2022-2023). My research interests include the communicative value of linguistic phenomena that characterize natural speech such as disfluencies and phonetic variation with a focus on integrating linguistic and phonetic knowledge into speech technologies.
+Researcher (RTD-A), Free University of Bozen-Bolzano. PhD in Linguistics at the University of Salerno (2022), visiting researcher at the University of Bielefeld (2020), Post-doc researcher at the University of Naples Federico II (2022-2023). My research interests include the communicative value of linguistic phenomena that characterize natural speech such as disfluencies and phonetic variation with a focus on integrating linguistic and phonetic knowledge into speech technologies.
 
 - loredana.schettino@unibz.it
 
