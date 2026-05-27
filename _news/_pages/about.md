@@ -9,7 +9,7 @@ subtitle:  <a href='https://www.unibz.it/home'> Free University of Bozen-Bolzano
 profile:
   align: right
   image: ALPS_logo_transparent_scada_resize.png
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   
 
 news: false # includes a list of news items
