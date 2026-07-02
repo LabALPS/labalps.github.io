@@ -1,0 +1,13 @@
+---
+layout: page
+title: DiSS 2027
+description: Program
+permalink: /events/DiSS2027/Program/
+nav: false
+---
+
+{% include diss2027_nav.liquid %}
+
+### To be announced
+ 
+

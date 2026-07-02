@@ -1,16 +1,36 @@
 ---
 layout: page
-title: Call for Papers
+title: DiSS 2027
+description: Call for Papers
 permalink: /events/DiSS2027/Callforpapers/
 nav: false
 ---
 
 {% include diss2027_nav.liquid %}
 
+## DiSS 2027 - 13th Workshop on Disfluency in Spontaneous Speech
 
+We are pleased to announce the 13th edition of the DiSS workshop (Disfluency in Spontaneous Speech), which will take place in Bolzano-Bozen (Italy), on February 4th-5th.
  
 
 Submissions are encouraged from all fields that deal with disfluency, paralinguistics, and other related phenomena. This includes, among others: psychology, neuropsychology and neurocognition, psycholinguistics, linguistics, conversation analysis, computational linguistics, speech technology, gesture analysis, dialogue systems, speech production and perception. 
 
- 
+---
 
+## Important dates 
+
+- **Paper submission deadline**: 21 Sept. 2026  
+- **Notification of acceptance**: 30 Oct. 2026 
+- **Camera-ready version due**: 20 Nov. 2026
+- **Author Registration deadline**: 30 Nov. 2026
+- **Registration Deadline**: 4 Jan. 2027
+- **DiSS Workshop**: 4-5 Feb. 2027
+Conferma di partecipazione da parte degli autori: 7-10 giorni dopo (20 novembre)
+ 
+---
+
+## Submission
+
+ Please prepare your manuscript using the official [Interspeech 2026 template](https://drive.google.com/file/d/1Nq1j_1AfOtadLkBx71-vLVLxZOaiAnzs/view) for regular papers. You are free to use LaTeX or Word, please submit a single PDF file. 
+ 
+ Submissions are managed through the Microsoft CMT system. Authors must create a free account to submit their papers.
