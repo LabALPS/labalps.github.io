@@ -8,7 +8,7 @@ nav: false
 
 {% include diss2027_nav.liquid %}
 
-## DiSS 2027 - 13th Workshop on Disfluency in Spontaneous Speech
+## 13th Workshop on Disfluency in Spontaneous Speech
 
 We are pleased to announce the 13th edition of the DiSS workshop (Disfluency in Spontaneous Speech), which will take place in Bolzano-Bozen (Italy), on February 4th-5th.
  
