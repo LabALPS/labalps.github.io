@@ -1,7 +1,7 @@
 ---
 layout: page
 title: DiSS 2027
-description: Commettees
+description: 13th Workshop on Disfluency in Spontaneous Speech
 permalink: /events/DiSS2027/Committees/
 nav: false
 ---

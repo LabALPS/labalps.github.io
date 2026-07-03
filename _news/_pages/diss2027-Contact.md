@@ -1,7 +1,7 @@
 ---
 layout: page
 title: DiSS 2027
-description: Contact
+description: 13th Workshop on Disfluency in Spontaneous Speech
 permalink: /events/DiSS2027/Contact/
 nav: false
 ---
