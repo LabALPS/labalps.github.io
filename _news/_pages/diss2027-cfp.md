@@ -25,8 +25,7 @@ Submissions are encouraged from all fields that deal with disfluency, paralingui
 - **Author Registration deadline**: 30 Nov. 2026
 - **Registration Deadline**: 4 Jan. 2027
 - **DiSS Workshop**: 4-5 Feb. 2027
-Conferma di partecipazione da parte degli autori: 7-10 giorni dopo (20 novembre)
- 
+
 ---
 
 ## Submission
