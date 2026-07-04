@@ -13,8 +13,9 @@ nav: false
 - [Loredana Schettino](https://www.unibz.it/it/faculties/education/academic-staff/person/49952-loredana-schettino), Free University of Bozen-Bolzano
 - [Violetta Cataldo](https://www.linkedin.com/in/violetta-cataldo-8844387b/?isSelfProfile=false), University of Salerno
 - [Irina Stan](https://www.unibz.it/it/faculties/education/academic-staff/person/53079-irina-suzana-stan), Free University of Bozen-Bolzano
-- [Lorenzo Spreafico](https://www.unibz.it/it/faculties/education/academic-staff/person/13255-lorenzo-spreafico), Free University of Bozen-Bolzano, Italy
+- [Lorenzo Spreafico](https://www.unibz.it/it/faculties/education/academic-staff/person/13255-lorenzo-spreafico), Free University of Bozen-Bolzano
 - [Francesco Cutugno](https://www.docenti.unina.it/teacher/4652414e434553434f43555455474e4f435447464e4336304d31364638333948/profile/references), University of Naples "Federico II"
+- [Giuseppe Magistro](https://www.linkedin.com/in/giuseppe-magistro-b0776593/?isSelfProfile=false), Gent University
 
 ---
 
@@ -26,6 +27,7 @@ nav: false
 - Štefan Beňuš, University in Nitra
 - Judit Bóna, Eötvös Loránd University
 - Ancuta Budeanu, Univeristy of Perugia
+- Angelika Braun, University of Trier
 - Emanuela Campisi, University of Catania
 - Violetta Cataldo, University of Salerno
 - Marina Cantarutti, University of York 
