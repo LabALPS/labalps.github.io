@@ -1,36 +1,56 @@
-<nav class="diss-nav mb-4">
-  <a href="/events/DiSS2027/" {% if page.url == '/events/DiSS2027/' %}class="active"{% endif %}>Welcome</a>
-  <a href="/events/DiSS2027/Callforpapers/" {% if page.url contains 'Callforpapers' %}class="active"{% endif %}>Call for Papers</a>
-  <a href="/events/DiSS2027/Committees/" {% if page.url contains 'Committees' %}class="active"{% endif %}>Committees</a>
-  <a href="/events/DiSS2027/Program/" {% if page.url contains 'Program' %}class="active"{% endif %}>Program</a>
-  <a href="/events/DiSS2027/Registration/" {% if page.url contains 'Registration' %}class="active"{% endif %}>Registration</a>
-  <a href="/events/DiSS2027/Venue/" {% if page.url contains 'Venue' %}class="active"{% endif %}>Venue</a>
-  <a href="/events/DiSS2027/Contact/" {% if page.url contains 'Contact' %}class="active"{% endif %}>Contact</a>
-
+<nav class="diss-nav">
+  <a class="diss-brand" href="/events/DiSS2027/">DiSS 2027</a>
+  <div class="diss-links">
+    <a href="/events/DiSS2027/Callforpapers/" {% if page.url contains 'Callforpapers' %}class="active"{% endif %}>Call for Papers</a>
+    <a href="/events/DiSS2027/Program/" {% if page.url contains 'Program' %}class="active"{% endif %}>Program</a>
+    <a href="/events/DiSS2027/Committees/" {% if page.url contains 'Committees' %}class="active"{% endif %}>Committees</a>
+    <a href="/events/DiSS2027/Registration/" {% if page.url contains 'Registration' %}class="active"{% endif %}>Registration</a>
+    <a href="/events/DiSS2027/Venue/" {% if page.url contains 'Venue' %}class="active"{% endif %}>Venue</a>
+    <a href="/events/DiSS2027/Contact/" {% if page.url contains 'Contact' %}class="active"{% endif %}>Contact</a>
+  </div>
 </nav>
 
 <style>
   .diss-nav {
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 0.5rem 2rem;
+    padding: 0.8rem 0;
+    margin-bottom: 2rem;
+    background: var(--global-bg-color);
+    border-bottom: 1px solid var(--global-divider-color);
+  }
+  .diss-brand {
+    font-size: 1.45rem;
+    font-weight: 300;
+    color: var(--global-text-color);
+    text-decoration: none;
+  }
+  .diss-links {
     display: flex;
     flex-wrap: wrap;
     gap: 0.5rem 1.5rem;
-    padding-bottom: 0.75rem;
-    border-bottom: 1px solid var(--global-divider-color);
-    margin-bottom: 1.5rem;
   }
-  .diss-nav a {
-    font-weight: 600;
-    text-decoration: none;
+  .diss-links a {
     color: var(--global-text-color);
-    font-size: 1.2rem;
+    text-decoration: none;
+    font-size: 1.05rem;
   }
-  .diss-nav a:hover {
-    color: var(--global-theme-color);
+  .diss-links a:hover {
+    color: var(--global-hover-color);
   }
-  .diss-nav a.active {
+  .diss-links a.active {
     color: var(--global-theme-color);
-    border-bottom: 2px solid var(--global-theme-color);
-    padding-bottom: 0.75rem;
-    margin-bottom: -0.85rem;
+    font-weight: bolder;
+  }
+
+  /* nasconde la navbar principale del sito nelle pagine DiSS */
+  body > header {
+    display: none;
   }
 </style>
