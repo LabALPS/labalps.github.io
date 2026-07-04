@@ -9,5 +9,3 @@ nav: false
 {% include diss2027_nav.liquid %}
 
 ### To be announced
- 
-

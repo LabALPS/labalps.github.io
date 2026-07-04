@@ -5,18 +5,17 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
 
-
 Since its establishment in 2010, ALPS has been expanded and enhanced, and is now home to a range of advanced technologies and tools. The lab has a strong focus on laboratory phonology, the study of articulation, acoustics, and perception of the sounds of human language. However, its affiliation with the Faculty of Education of the Free University of Bozen-Bolzano provides a strong academic framework for conducting projects in related fields of research. A great emphasis is given to projects in the field of sociophonetics, the study of how language varies according to social factors, such as age, gender, and region.
+
 ####
 
-Welcome! We are the Alpine Laboratory of Phonetic Sciences at the Faculty of Education of the Free University of Bozen-Bolzano. Since its establishment in 2010, ALPS has been expanded and enhanced, and is now home to a range of advanced technologies and tools for phonetic research. 
+Welcome! We are the Alpine Laboratory of Phonetic Sciences at the Faculty of Education of the Free University of Bozen-Bolzano. Since its establishment in 2010, ALPS has been expanded and enhanced, and is now home to a range of advanced technologies and tools for phonetic research.
 
-The research lab has a strong focus on laboratory phonology aiming at studying the sound dimension of spoken language, both in its production and perception, by adopting experimental methods. 
-
+The research lab has a strong focus on laboratory phonology aiming at studying the sound dimension of spoken language, both in its production and perception, by adopting experimental methods.
 
 Our research areas encompass: the documentation of sound systems (Ladin, Italian, German, German dialects, Sardinian) how speech sounds vary in their articulation, acoustic characteristics, distributional properties, and use to convey social information; the exploration of speech sounds representations by deep learning models, how the phonetic-acoustic features of speech, and different speech styes, are encoded by and affect automatic speech recognition systems, for more linguistically sensible model evalutation and Low Resource Languages applications; phonetic education with a focus on raising children's awareness of how voice and linguistic sounds are produced and their ability to index socio-phonetic features, didactic methods for teaching and acquiring phonetic-phonological competence and pronunciation teaching.
 
-ALPS's activity also has a significant impact outside of phonetic research, with applications in education, clinical practice, and speech technology. 
+ALPS's activity also has a significant impact outside of phonetic research, with applications in education, clinical practice, and speech technology.
 
 ####
 
@@ -28,11 +27,12 @@ Our research focuses on: documenting sound systems across multiple languages (La
 
 Welcome! We are the Alpine Laboratory of Phonetic Sciences at the Faculty of Education at the Free University of Bozen-Bolzano. Since its establishment in 2010, ALPS has been expanded and enhanced and is now home to a range of advanced technologies and tools for phonetic research.
 
- The primary focus of our research lab is to study the sound dimension of spoken language, both in its production and perception, by adopting experimental methods. 
+The primary focus of our research lab is to study the sound dimension of spoken language, both in its production and perception, by adopting experimental methods.
 
 Our research areas include:
-- the documentation of sound systems, the variation in the articulation, acoustic characteristics, and their use in conveying social information; 
-- the exploration of speech sound representations by deep learning models, the encoding of phonetic-acoustic features of speech and their effect on automatic speech recognition systems for more interpretable model performance and Low Resource Language applications; 
+
+- the documentation of sound systems, the variation in the articulation, acoustic characteristics, and their use in conveying social information;
+- the exploration of speech sound representations by deep learning models, the encoding of phonetic-acoustic features of speech and their effect on automatic speech recognition systems for more interpretable model performance and Low Resource Language applications;
 - phonetic education, raising children's awareness of how voice and linguistic sounds are produced and examining methods for developing phonetic and phonological competence.
 
 ALPS's activities also have a significant impact beyond phonetic research, with applications in education, clinical practice and speech technology.
@@ -41,11 +41,12 @@ ALPS's activities also have a significant impact beyond phonetic research, with 
 
 Welcome! We are the Alpine Laboratory of Phonetic Sciences at the Faculty of Education at the Free University of Bozen-Bolzano. Since its establishment in 2010, ALPS has been expanded and enhanced and is now home to a range of advanced technologies and tools for phonetic research.
 
- The primary focus of our research lab is to study the sound dimension of spoken language, both in its production and perception, by adopting experimental methods. 
+The primary focus of our research lab is to study the sound dimension of spoken language, both in its production and perception, by adopting experimental methods.
 
 Our research areas include:
-- the documentation of sound systems, the variation in the articulation, acoustic characteristics, and their use in conveying social information; 
-- speech modelling, the linguistic exploration of spoken language representations produced by deep learning models for more interpretable models and Low Resource Language applications; 
+
+- the documentation of sound systems, the variation in the articulation, acoustic characteristics, and their use in conveying social information;
+- speech modelling, the linguistic exploration of spoken language representations produced by deep learning models for more interpretable models and Low Resource Language applications;
 - educational phonetics, encompassing the theory, policy, and practice of teaching and learning the sounds of Italian, as well as how these sounds function within the phonological system of Italian.
 
 ALPS's activities also have a significant impact beyond phonetic research, with applications in education, clinical practice and speech technology.

@@ -6,9 +6,17 @@
       {% if page.permalink != '/' %}
         <a class="navbar-brand title font-weight-lighter" href="{{ '/' | relative_url }}">
           {% if site.title == 'blank' %}
-            {% if site.first_name %}<span class="font-weight-bold">{{- site.first_name -}}</span>{% endif %}
-            {% if site.middle_name %}&nbsp;{{- site.middle_name -}}{% endif %}
-            {% if site.last_name %}&nbsp;{{- site.last_name -}}{% endif %}
+            {% if site.first_name -%}
+              <span class="font-weight-bold">{{- site.first_name -}}</span>
+            {%- endif %}
+            {% if site.middle_name -%}
+              &nbsp;
+              {{- site.middle_name -}}
+            {% endif %}
+            {% if site.last_name -%}
+              &nbsp;
+              {{- site.last_name -}}
+            {% endif %}
           {% else %}
             {{- site.title -}}
           {% endif %}
@@ -37,7 +45,7 @@
       <div class="collapse navbar-collapse text-right" id="navbarNav">
         <ul class="navbar-nav ml-auto flex-nowrap">
           {%- comment -%} Titolo per la Home ("/") {%- endcomment -%}
-          {% assign about_title = nil %}
+          {% assign about_title = null %}
           {% for p in site.pages %}
             {% if p.permalink == '/' %}{% assign about_title = p.title %}{% endif %}
           {% endfor %}
@@ -60,8 +68,8 @@
               - site.news    (collection dove tieni i file)
             Ordinate per nav_order.
           {%- endcomment -%}
-          {%- assign nav_pages = site.pages | where_exp:'p','p.nav and p.autogen == nil' -%}
-          {%- assign nav_news  = site.news  | where_exp:'p','p.nav' -%}
+          {%- assign nav_pages = site.pages | where_exp: 'p', 'p.nav and p.autogen == nil' -%}
+          {%- assign nav_news = site.news | where_exp: 'p', 'p.nav' -%}
           {%- assign sorted_all = nav_pages | concat: nav_news | sort: 'nav_order' -%}
 
           {%- for p in sorted_all -%}
@@ -90,15 +98,19 @@
                     {%- if child.title == 'divider' -%}
                       <div class="dropdown-divider"></div>
                     {%- else -%}
-                      <a class="dropdown-item {% if page.title == child.title %}active{% endif %}"
-                         href="{{ child.permalink | relative_url }}">{{ child.title }}</a>
+                      <a
+                        class="dropdown-item {% if page.title == child.title %}active{% endif %}"
+                        href="{{ child.permalink | relative_url }}"
+                      >
+                        {{- child.title -}}
+                      </a>
                     {%- endif -%}
                   {%- endfor -%}
                 </div>
               </li>
             {%- else -%}
               {%- assign parent_link = p.permalink | default: p.url | remove: 'index.html' -%}
-              {%- assign href        = p.url | default: p.permalink -%}
+              {%- assign href = p.url | default: p.permalink -%}
               <li class="nav-item {% if page.url contains parent_link or page.title == p.title %}active{% endif %}">
                 <a class="nav-link" href="{{ href | relative_url }}">
                   {{- p.title -}}

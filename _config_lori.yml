@@ -3,7 +3,7 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: ALPS 
+first_name: ALPS
 middle_name:
 last_name: LAB
 email: lschettino@unibz.it
@@ -165,12 +165,12 @@ disqus_shortname: #al-folio # put your disqus shortname
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
 external_sources:
-- name: medium.com
-  rss_url: https://medium.com/@al-folio/feed
-- name: Google Blog
-  posts:
-  - url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
-    published_date: 2024-05-14
+  - name: medium.com
+    rss_url: https://medium.com/@al-folio/feed
+  - name: Google Blog
+    posts:
+      - url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
+        published_date: 2024-05-14
 
 # -----------------------------------------------------------------------------
 # Newsletter
@@ -225,57 +225,57 @@ kramdown:
 # Includes & excludes
 include: ["_pages"]
 exclude:
-- BACKUP/
-- repositories.md
-- teaching.md
-- blog.md
-- bin/
-- CONTRIBUTING.md
-- CUSTOMIZE.md
-- Dockerfile
-- docker-compose.yml
-- docker-compose-slim.yml
-- FAQ.md
-- Gemfile
-- Gemfile.lock
-- INSTALL.md
-- LICENSE
-- lighthouse_results/
-- package.json
-- package-lock.json
-- purgecss.config.js
-- README.md
-- readme_preview/
-- vendor
+  - BACKUP/
+  - repositories.md
+  - teaching.md
+  - blog.md
+  - bin/
+  - CONTRIBUTING.md
+  - CUSTOMIZE.md
+  - Dockerfile
+  - docker-compose.yml
+  - docker-compose-slim.yml
+  - FAQ.md
+  - Gemfile
+  - Gemfile.lock
+  - INSTALL.md
+  - LICENSE
+  - lighthouse_results/
+  - package.json
+  - package-lock.json
+  - purgecss.config.js
+  - README.md
+  - readme_preview/
+  - vendor
 keep_files:
-- CNAME
-- .nojekyll
+  - CNAME
+  - .nojekyll
 
 # Plug-ins
 plugins:
-- jekyll-archives
-- jekyll-email-protect
-- jekyll-feed
-- jekyll-get-json
-- jekyll-imagemagick
-- jekyll-jupyter-notebook
-- jekyll-link-attributes
-- jekyll-minifier
-- jekyll-paginate-v2
-- jekyll-regex-replace
-- jekyll/scholar
-- jekyll-sitemap
-- jekyll-tabs
-- jekyll-toc
-- jekyll-twitter-plugin
-- jemoji
+  - jekyll-archives
+  - jekyll-email-protect
+  - jekyll-feed
+  - jekyll-get-json
+  - jekyll-imagemagick
+  - jekyll-jupyter-notebook
+  - jekyll-link-attributes
+  - jekyll-minifier
+  - jekyll-paginate-v2
+  - jekyll-regex-replace
+  - jekyll/scholar
+  - jekyll-sitemap
+  - jekyll-tabs
+  - jekyll-toc
+  - jekyll-twitter-plugin
+  - jemoji
 
 # Sitemap settings
 defaults:
-- scope:
-    path: "assets"
-  values:
-    sitemap: false
+  - scope:
+      path: "assets"
+    values:
+      sitemap: false
 
 sass:
   style: compressed
@@ -344,7 +344,29 @@ enable_publication_badges:
   google_scholar: true # Google Scholar badge (https://scholar.google.com/intl/en/scholar/citations.html)
 
 # Filter out certain bibtex entry keywords used internally from the bib output
-filtered_bibtex_keywords: [abbr, abstract, additional_info, altmetric, annotation, arxiv, award, award_name, bibtex_show, blog, code, html, pdf, poster, preview, selected, slides, supp, video, website]
+filtered_bibtex_keywords:
+  [
+    abbr,
+    abstract,
+    additional_info,
+    altmetric,
+    annotation,
+    arxiv,
+    award,
+    award_name,
+    bibtex_show,
+    blog,
+    code,
+    html,
+    pdf,
+    poster,
+    preview,
+    selected,
+    slides,
+    supp,
+    video,
+    website,
+  ]
 
 # Maximum number of authors to be shown for each publication (more authors are visible on click)
 max_author_limit: 3 # leave blank to always show all authors
@@ -373,17 +395,17 @@ external_links:
 imagemagick:
   enabled: true # enables responsive images for your site (recommended, see https://github.com/alshedivat/al-folio/issues/537)
   widths:
-  - 480
-  - 800
-  - 1400
+    - 480
+    - 800
+    - 1400
   input_directories:
-  - assets/img/
+    - assets/img/
   input_formats:
-  - ".jpg"
-  - ".jpeg"
-  - ".png"
-  - ".tiff"
-  - ".gif"
+    - ".jpg"
+    - ".jpeg"
+    - ".png"
+    - ".tiff"
+    - ".gif"
   output_formats:
     webp: "-quality 85"
 
@@ -606,18 +628,18 @@ third_party_libraries:
 # -----------------------------------------------------------------------------
 
 jekyll_get_json:
-- data: resume
-  json: assets/json/resume.json # it can also be an url
+  - data: resume
+    json: assets/json/resume.json # it can also be an url
 jsonresume:
-- basics
-- work
-- education
-- publications
-- projects
-- volunteer
-- awards
-- certificates
-- skills
-- languages
-- interests
-- references
+  - basics
+  - work
+  - education
+  - publications
+  - projects
+  - volunteer
+  - awards
+  - certificates
+  - skills
+  - languages
+  - interests
+  - references

@@ -10,5 +10,3 @@ nav: false
 
 If you have any questions, please use the following email address to contact the organizers:
 diss.workshop2027@gmail.com
- 
-

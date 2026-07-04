@@ -16,9 +16,8 @@ nav: false
 - [Lorenzo Spreafico](https://www.unibz.it/it/faculties/education/academic-staff/person/13255-lorenzo-spreafico), Free University of Bozen-Bolzano, Italy
 - [Francesco Cutugno](https://www.docenti.unina.it/teacher/4652414e434553434f43555455474e4f435447464e4336304d31364638333948/profile/references), University of Naples "Federico II", Italy
 
-
 ---
 
 ### Scientific Committee
- 
+
 tba

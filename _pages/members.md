@@ -13,8 +13,6 @@ nav_order: 3
     Our team
 </div>
 
-
-
 [**Alessandro Vietti**](https://sites.google.com/site/avietti/home)
 
 PhD in theoretical linguistics and in sociolinguistics at the University of Pavia. His research interests include quantitative analysis of natural speech, with the aim of understanding phonetic variation and its implications for linguistic theory; combining experimental methods with advanced quantitative analysis to model speech production and perception. After taking a tenured researcher position at the Free University of Bolzano he set up a laboratory of phonetics and specialized in the ultrasound tongue imaging technique.
@@ -26,7 +24,6 @@ PhD in theoretical linguistics and in sociolinguistics at the University of Pavi
 ---
 
 [**Lorenzo Spreafico**](https://www.unibz.it/it/faculties/education/academic-staff/person/13255-lorenzo-spreafico)
-
 
 Associate Professor, University of Bozen-Bolzano. PhD in Linguistics at the University of Pavia in the framework of an international agreement with the universities Freie Universität Berlin and Universität Erfurt. Since September 2021 Associate professor of language education at the Faculty of education, Free University of Bolzano-Bozen. His current research interests include language acquisition and teaching, with special emphasis on pronunciation.
 
@@ -73,15 +70,3 @@ PhD Student, Free University of Bozen-Bolzano. My research focuses on low-resour
 - Maria Chiara Felloni
 - Conceição Cuhna
 - Lia Saki Bučar Shigemori
-
-
-
-
-
-
-
-
-
-
-
-

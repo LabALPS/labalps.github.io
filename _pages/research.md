@@ -26,7 +26,7 @@ Our work carries innovative potential in several aspects: For one, we provide th
 Free University of Bozen-Bolzano
 
 [Marianne Pouplier (co-PI)](https://www.phonetik.uni-muenchen.de/personen/professoren/pouplier_marianne/index.html)
-Ludwig Maximilians Universität München 
+Ludwig Maximilians Universität München
 
 [Andrea Brugnoli (Post-Doc Researcher)](https://www.unibz.it/it/faculties/education/academic-staff/person/50727-andrea-brugnoli)
 Free University of Bozen-Bolzano
@@ -37,14 +37,13 @@ Ludwig Maximilians Universität München
 [Daniela Mereu (Scientific Consultant)](https://www.lingue.unito.it/do/docenti.pl/Alias?daniela.mereu#tab-profilo)
 University of Turin
 
-
 ---
 
 ### Completed Projects
 
 **Speak Up!** – The effects of temperature and altitude on speech and articulation
 
-- Funded by: Free University of Bozen – Bolzano, Faculty of Education 
+- Funded by: Free University of Bozen – Bolzano, Faculty of Education
 - Project duration: 2018 – 2020
 
 The aim of this project is to study the effect of environmental factors such as temperature, humidity, pressure, or oxygen level on speech.
@@ -104,7 +103,7 @@ Vietti, A. & Mereu, D. (2020), “Sistemi vocalici in contatto nell’italiano d
 
 Mereu, D. & Vietti, A. (2021), “Dialogic ItAlian: the creation of a corpus of Italian spontaneous speech”. Speech Communication 130: 1-14. [See publication](https://www.sciencedirect.com/science/article/pii/S0167639321000303?via%3Dihub)
 
---- 
+---
 
 **SCUTI** – Sibilant clusters in bilingual speakers: a UTI-based approach
 

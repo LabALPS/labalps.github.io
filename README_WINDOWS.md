@@ -27,14 +27,13 @@ Todo:
 
     bundle exec jekyll serve --force_polling --incremental --watch --livereload
 
-
 If you get the following error:
 
     There was an error while loading `minimal-mistakes-jekyll.gemspec`: No such file or directory @ rb_sysopen - ./package.json. Bundler cannot continue.
 
-Delete the whole _site folder.
+Delete the whole \_site folder.
 
 # REMOVE SECTIONS
 
-In _config.yml add to exclude the folder related to the section you want to remove, if it is a collection also disable it by searching the "collection" section in _config.yml then set the corresponding flag "enabled" to false.
-Also, to remove it from the menu go to _includes folder and remove those pages from the header.html (or header .liquid). [Documented in this answer](https://github.com/alshedivat/al-folio/issues/67).
+In \_config.yml add to exclude the folder related to the section you want to remove, if it is a collection also disable it by searching the "collection" section in \_config.yml then set the corresponding flag "enabled" to false.
+Also, to remove it from the menu go to \_includes folder and remove those pages from the header.html (or header .liquid). [Documented in this answer](https://github.com/alshedivat/al-folio/issues/67).
