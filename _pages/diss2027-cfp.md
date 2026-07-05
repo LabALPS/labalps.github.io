@@ -31,4 +31,6 @@ Submissions are encouraged from all fields that deal with disfluency, paralingui
 
 Please prepare your manuscript using the official [Interspeech 2026 template](https://drive.google.com/file/d/1Nq1j_1AfOtadLkBx71-vLVLxZOaiAnzs/view) for regular papers. You are free to use LaTeX or Word, please submit a single PDF file.
 
-Submissions are managed through the Microsoft CMT system. Authors must create a free account to submit their papers.
+Submissions are managed through the Microsoft CMT system (CMT submission link will be coming shortly). Authors need to have a free account to submit their papers.
+
+The Microsoft CMT service was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft and they bore all expenses, including costs for Azure cloud services as well as for software development and support.
