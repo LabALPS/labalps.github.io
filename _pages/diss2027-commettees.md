@@ -52,6 +52,7 @@ nav: false
 - Aurélie Pistono, University of Toulouse
 - Ralph Rose, Waseda University
 - Vered Silber Varod, Tel Aviv University
+- Vincenzo Norman Vitale, University of Naples "Federico II"
 - Jürgen Trouvain, Saarland University
 - Khiet Truong, University of Twente
 - Claudio Zmarich, ISTC-CNR
