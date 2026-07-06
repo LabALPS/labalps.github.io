@@ -55,6 +55,7 @@ nav: false
 - Ralph Rose, Waseda University
 - Loredana Schettino, Free University of Bozen-Bolzano
 - Vered Silber Varod, Tel Aviv University
+- Irina Stan, Free University of Bozen-Bolzano
 - Vincenzo Norman Vitale, University of Naples "Federico II"
 - Jürgen Trouvain, Saarland University
 - Khiet Truong, University of Twente

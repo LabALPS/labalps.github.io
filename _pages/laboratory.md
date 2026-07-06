@@ -6,6 +6,10 @@ nav: true
 nav_order: 2
 ---
 
+<div style="float: right; width: 50%; min-width: 220px; margin: 0 0 1rem 1.5rem;">
+  {% include figure.liquid path="assets/img/lab2.png" class="img-fluid rounded" %}
+</div>
+
 The laboratory is an advanced research facility that has been designed for the study of speech production and perception.
 
 This state-of-the-art facility is equipped with a range of advanced technologies and tools, which are aimed at providing researchers, postdocs and PhD students with the necessary resources to conduct research in the field.
