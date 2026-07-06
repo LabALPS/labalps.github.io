@@ -24,6 +24,7 @@ nav: false
 - Jens Allwood, University of Götenburg
 - Plínio Barbosa, University of Campinas
 - Grazia Basile, Università di Salerno
+- Malte Belz,  Humboldt-Universität zu Berlin
 - Štefan Beňuš, University in Nitra
 - Judit Bóna, Eötvös Loránd University
 - Ancuta Budeanu, Univeristy of Perugia
