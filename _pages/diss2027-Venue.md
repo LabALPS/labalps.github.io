@@ -8,9 +8,9 @@ nav: false
 
 {% include diss2027_nav.liquid %}
 
-<div style="width: 100vw; position: relative; left: 50%; margin-left: -50vw;">
-  <img src="/assets/img/Bz2pro.jpg" alt="" style="width: 100%; height: 300px; object-fit: cover; display: block;">
-</div>
+
+<img src="/assets/img/Bz2pro.jpg" alt="View of Bolzano" class="rounded"
+     style="width: 100%; height: 280px; object-fit: cover;">
 
 <div style="float: right; width: 50%; min-width: 220px; margin: 0 0 1rem 1.5rem;">
   {% include figure.liquid path="assets/img/edificio_unibz.jpeg" class="img-fluid rounded" %}

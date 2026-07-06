@@ -28,3 +28,6 @@ We are looking forward to seeing you in Bozen!
 <div style="clear: both;"></div>
 
 {% include figure.liquid path="assets/img/render.PNG" class="img-fluid rounded" %}
+<div style="width: 100vw; position: relative; left: 50%; margin-left: -50vw;">
+  <img src="/assets/img/Bz2pro.jpg" alt="" style="width: 100%; height: 300px; object-fit: cover; display: block;">
+</div>
