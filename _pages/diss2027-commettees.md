@@ -42,6 +42,7 @@ nav: false
 - Mária Gosy, Eötvös Loránd University
 - Robert Hartsuiker, Ghent University
 - Farhat Jabeen, Bielefeld University 
+- Loulou Kosmala,  Université Paris-Est Créteil
 - Marta Maffia, University of Naples "L'Orientale"
 - Giuseppe Magistro, Gent University
 - Lucia Mareková, University in Nitra
@@ -52,6 +53,7 @@ nav: false
 - Pauliina Peltonen, University of Turku
 - Aurélie Pistono, University of Toulouse
 - Ralph Rose, Waseda University
+- Loredana Schettino, Free University of Bozen-Bolzano
 - Vered Silber Varod, Tel Aviv University
 - Vincenzo Norman Vitale, University of Naples "Federico II"
 - Jürgen Trouvain, Saarland University
