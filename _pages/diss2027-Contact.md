@@ -14,4 +14,4 @@ If you have any questions, please use the following email address to contact the
 
 
 
-Please feel free to subscribe to the [DISS Workshop mailing list](https://www.listserv.dfn.de/sympa/info/ubi-diss-workshop)
+Please feel free to subscribe to the [DISS Workshop mailing list](https://www.listserv.dfn.de/sympa/subscribe/ubi-diss-workshop?previous_action=info)
