@@ -12,6 +12,8 @@ nav: false
 
 We are pleased to announce the 13th edition of the DiSS workshop (Disfluency in Spontaneous Speech), which will take place in Bolzano-Bozen (Italy), on February 4th-5th.
 
+Established in 1999, the DiSS workshop series provides an interdisciplinary forum for researchers interested in disfluency and spontaneous speech. It brings together  researchers from a wide range of disciplines and welcomes studies on disfluency in spontaneous speech.
+
 Submissions are encouraged from all fields that deal with disfluency, paralinguistics, and other related phenomena. This includes, among others: psychology, neuropsychology and neurocognition, psycholinguistics, linguistics, conversation analysis, computational linguistics, speech technology, gesture analysis, dialogue systems, speech production and perception.
 
 ---

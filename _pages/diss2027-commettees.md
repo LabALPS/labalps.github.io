@@ -16,6 +16,7 @@ nav: false
 - [Lorenzo Spreafico](https://www.unibz.it/it/faculties/education/academic-staff/person/13255-lorenzo-spreafico), Free University of Bozen-Bolzano
 - [Francesco Cutugno](https://www.docenti.unina.it/teacher/4652414e434553434f43555455474e4f435447464e4336304d31364638333948/profile/references), University of Naples "Federico II"
 - [Giuseppe Magistro](https://www.linkedin.com/in/giuseppe-magistro-b0776593/?isSelfProfile=false), Ghent University
+- [Oana Niculescu](https://icub.unibuc.ro/user/oana+niculescu/), Romanian Academy Institute of Linguistics
 
 ---
 
