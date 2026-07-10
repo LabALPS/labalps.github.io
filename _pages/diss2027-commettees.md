@@ -31,7 +31,8 @@ nav: false
 - Angelika Braun, University of Trier
 - Emanuela Campisi, University of Catania
 - Violetta Cataldo, University of Salerno
-- Marina Cantarutti, University of York 
+- Marina Cantarutti, University of York
+- Martin Corley,  University of Edinburgh  
 - Maria Di Maro, University of Naples "Federico II"
 - Jessica di Napoli, Aachen University
 - Robert Eklund, Linköping University

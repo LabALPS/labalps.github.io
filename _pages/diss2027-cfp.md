@@ -18,10 +18,10 @@ Submissions are encouraged from all fields that deal with disfluency, paralingui
 
 ## Important dates
 
-- **Paper submission deadline**: 21 Sept. 2026
-- **Notification of acceptance**: 30 Oct. 2026
-- **Camera-ready version due**: 20 Nov. 2026
-- **Author Registration deadline**: 30 Nov. 2026
+- **Paper submission deadline**: 05 Oct. 2026
+- **Notification of acceptance**: 13 Nov. 2026
+- **Camera-ready version due**: 1 Dec. 2026
+- **Author registration deadline**: 7 Dec. 2026
 - **Registration Deadline**: 4 Jan. 2027
 - **DiSS Workshop**: 4-5 Feb. 2027
 
