@@ -36,3 +36,17 @@ Please prepare your manuscript using the official [Interspeech 2026 template](ht
 Submissions are managed through the Microsoft CMT system (CMT submission link will be coming shortly). Authors need to have a free account to submit their papers.
 
 The Microsoft CMT service was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft and they bore all expenses, including costs for Azure cloud services as well as for software development and support.
+
+## Code of Ethics
+
+DiSS 2027 complies with [ISCA Code of Ethics for Authors](https://www.isca-speech.org/Code-of-Ethics-for-Authors).
+
+*ISCA is committed to publishing high-quality journals and conference proceedings, with*
+
+- *no fabrication, falsification of data breach*
+- *no (self-) plagiarism, no multiple submissions,*
+- *respect of copyrights,*
+- *respect of human rights, and* 
+- *responsible and accountable (co-) authors.*
+
+*Details can be found in the [Code of Ethics for Authors](https://www.isca-speech.org/Code-of-Ethics-for-Authors).*
