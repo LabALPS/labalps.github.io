@@ -32,7 +32,8 @@ nav: false
 - Emanuela Campisi, University of Catania
 - Violetta Cataldo, University of Salerno
 - Marina Cantarutti, University of York
-- Martin Corley,  University of Edinburgh  
+- Martin Corley,  University of Edinburgh 
+- Loudivine Crible, Ghent Univeristy 
 - Maria Di Maro, University of Naples "Federico II"
 - Jessica di Napoli, Aachen University
 - Robert Eklund, Linköping University
