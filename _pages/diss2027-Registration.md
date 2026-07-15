@@ -20,3 +20,16 @@ DiSS 2027 complies with [Code of Conduct for Conference and Workshop Attendees](
 *If you are troubled by the behavior of other attendees, or notice someone is in trouble, please speak immediately to a member of conference staff or send a message to <ethics@isca-speech.org>.*
 
 *Your concern will be heard in confidence and taken seriously to solve the problem.*
+
+
+<div style="display: flex; justify-content: center; align-items: center; gap: 2.5rem; flex-wrap: wrap; margin-top: 3rem;">
+  <a href="https://labalps.github.io/" title="ALPS Lab">
+    <img src="/assets/img/ALPS_logo_transparent_scada.png" alt="ALPS Lab" style="height: 50px; width: auto;">
+  </a>
+  <a href="https://www.unibz.it/" target="_blank" rel="noopener" title="Free University of Bozen-Bolzano">
+    <img src="/assets/img/unibz_logo_blue.svg" alt="Free University of Bozen-Bolzano" style="height: 50px; width: auto;">
+  </a>
+  <a href="https://www.aisv.it/" target="_blank" rel="noopener" title="AISV">
+    <img src="/assets/img/aisv_logo.png" alt="AISV" style="height: 50px; width: auto;">
+  </a>
+</div>
