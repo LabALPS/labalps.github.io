@@ -63,6 +63,7 @@ nav: false
 - Jürgen Trouvain, Saarland University
 - Khiet Truong, University of Twente
 - Petra Wagner, University of Bielefeld
+- Simon Williams, University of Sussex 
 - Claudio Zmarich, ISTC-CNR
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 2.5rem; flex-wrap: wrap; margin-top: 3rem;">
