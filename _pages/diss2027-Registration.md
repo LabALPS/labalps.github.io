@@ -10,6 +10,8 @@ nav: false
 
 To be announced
 
+---
+
 ## Code of Conduct for Attendees
 
 DiSS 2027 complies with [Code of Conduct for Conference and Workshop Attendees](https://www.isca-speech.org/Code-of-Conduct-for-Conference-and-Workshop-Attendees)

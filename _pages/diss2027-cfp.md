@@ -37,6 +37,8 @@ Submissions are managed through the Microsoft CMT system (CMT submission link wi
 
 The Microsoft CMT service was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft and they bore all expenses, including costs for Azure cloud services as well as for software development and support.
 
+---
+
 ## Code of Ethics
 
 DiSS 2027 complies with [ISCA Code of Ethics for Authors](https://www.isca-speech.org/Code-of-Ethics-for-Authors).
