@@ -8,7 +8,14 @@ nav: false
 
 {% include diss2027_nav.liquid %}
 
-To be announced
+## Registration fees 
+
+- Full Registration: 120€
+- Student Registration: 90€
+- ISCA Member: 100€
+- ISCA Student: 70€
+
+The DiSS workshop is sponsored by ISCA. As such there will be three student travel grants available!
 
 ---
 
@@ -25,6 +32,9 @@ DiSS 2027 complies with [Code of Conduct for Conference and Workshop Attendees](
 
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 2.5rem; flex-wrap: wrap; margin-top: 3rem;">
+  <a href="https://isca-speech.org/" target="_blank" rel="noopener" title="ISCA">
+    <img src="/assets/img/ISCA_logo_diamond.png" alt="ISCA" style="height: 50px; width: auto;">
+  </a>
   <a href="https://labalps.github.io/" title="ALPS Lab">
     <img src="/assets/img/ALPS_logo_transparent_scada.png" alt="ALPS Lab" style="height: 50px; width: auto;">
   </a>

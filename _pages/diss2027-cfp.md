@@ -14,6 +14,8 @@ We are pleased to announce the 13th edition of the DiSS workshop (Disfluency in 
 
 Established in 1999, the DiSS workshop series provides an interdisciplinary forum for researchers interested in disfluency and spontaneous speech. It brings together  researchers from a wide range of disciplines and welcomes studies on disfluency in spontaneous speech.
 
+The DiSS workshop is sponsored by ISCA. As such there will be three student travel grants available!
+
 Submissions are encouraged from all fields that deal with disfluency, paralinguistics, and other related phenomena. This includes, among others: psychology, neuropsychology and neurocognition, psycholinguistics, linguistics, conversation analysis, computational linguistics, speech technology, gesture analysis, dialogue systems, speech production and perception.
 
 ---
@@ -54,6 +56,9 @@ DiSS 2027 complies with [ISCA Code of Ethics for Authors](https://www.isca-speec
 *Details can be found in the [Code of Ethics for Authors](https://www.isca-speech.org/Code-of-Ethics-for-Authors).*
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 2.5rem; flex-wrap: wrap; margin-top: 3rem;">
+  <a href="https://isca-speech.org/" target="_blank" rel="noopener" title="ISCA">
+    <img src="/assets/img/ISCA_logo_diamond.png" alt="ISCA" style="height: 50px; width: auto;">
+  </a>
   <a href="https://labalps.github.io/" title="ALPS Lab">
     <img src="/assets/img/ALPS_logo_transparent_scada.png" alt="ALPS Lab" style="height: 50px; width: auto;">
   </a>
