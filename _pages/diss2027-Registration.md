@@ -10,12 +10,12 @@ nav: false
 
 ## Registration fees 
 
-- Full Registration: 120€
-- Student Registration: 90€
-- ISCA Member: 100€
-- ISCA Student: 70€
+- **Full Registration**: 120€
+- **Student Registration**: 90€
+- **ISCA Member**: 100€
+- **ISCA Student**: 70€
 
-The DiSS workshop is sponsored by ISCA. As such there will be three student travel grants available!
+**The DiSS workshop is sponsored by ISCA. As such there will be three student travel grants available!**
 
 ---
 
