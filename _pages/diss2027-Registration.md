@@ -15,7 +15,7 @@ nav: false
 - **ISCA Member**: 100€
 - **ISCA Student**: 70€
 
-**The DiSS workshop is sponsored by ISCA. As such there will be three student travel grants available!**
+**The DiSS workshop is sponsored by ISCA. As such, there will be three ISCA grants available  to support the participation of students and early-career scientists!**
 
 ---
 

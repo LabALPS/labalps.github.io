@@ -14,7 +14,7 @@ We are pleased to announce the 13th edition of the DiSS workshop (Disfluency in 
 
 Established in 1999, the DiSS workshop series provides an interdisciplinary forum for researchers interested in disfluency and spontaneous speech. It brings together  researchers from a wide range of disciplines and welcomes studies on disfluency in spontaneous speech.
 
-The DiSS workshop is sponsored by ISCA. As such there will be three student travel grants available!
+The DiSS workshop is sponsored by ISCA. As such, there will be three ISCA grants available  to support the participation of students and early-career scientists!
 
 Submissions are encouraged from all fields that deal with disfluency, paralinguistics, and other related phenomena. This includes, among others: psychology, neuropsychology and neurocognition, psycholinguistics, linguistics, conversation analysis, computational linguistics, speech technology, gesture analysis, dialogue systems, speech production and perception.
 
@@ -39,7 +39,7 @@ You are free to use LaTeX or Word, please submit a single PDF file.
 
 Submissions are managed through the Microsoft CMT system. Authors need to have a free account to submit their papers. Please use [this link](https://cmt3.research.microsoft.com/DiSS2027) to submit your paper.
 
-The Microsoft CMT service was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft and they bore all expenses, including costs for Azure cloud services as well as for software development and support.
+All submissions will undergo peer review by the Scientific Committee. Accepted papers will be included in the workshop proceedings and published in the [ISCA Archive](https://www.isca-archive.org/).
 
 ---
 
@@ -56,6 +56,12 @@ DiSS 2027 complies with [ISCA Code of Ethics for Authors](https://www.isca-speec
 - *responsible and accountable (co-) authors.*
 
 *Details can be found in the [Code of Ethics for Authors](https://www.isca-speech.org/Code-of-Ethics-for-Authors).*
+
+---
+## Acknowledgments
+
+The Microsoft CMT service was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft and they bore all expenses, including costs for Azure cloud services as well as for software development and support.
+
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 2.5rem; flex-wrap: wrap; margin-top: 3rem;">
   <a href="https://isca-speech.org/" target="_blank" rel="noopener" title="ISCA">
