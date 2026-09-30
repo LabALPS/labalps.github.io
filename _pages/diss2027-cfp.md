@@ -22,7 +22,7 @@ Submissions are encouraged from all fields that deal with disfluency, paralingui
 
 ## Important dates
 
-- **Paper submission deadline**: <del>05 Oct. 2026</del> <span style="color: #d9534f;"><strong>15 Oct. 2026 (extended)</strong></span>
+- **Paper submission deadline**: <del>05 Oct. 2026</del> <strong style="color: #d9534f;">15 Oct. 2026 (extended)</strong>
 - **Notification of acceptance**: 13 Nov. 2026
 - **Camera-ready version due**: 1 Dec. 2026
 - **Author registration deadline**: 7 Dec. 2026
