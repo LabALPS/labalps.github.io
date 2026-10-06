@@ -9,7 +9,7 @@ nav_order: 6
 ## Conferences and Workshops
 
 - [13th Workshop on Disfluency in Spontaneous Speech - DiSS 2027](/events/DiSS2027/)
-- [Summer School _Metodi e Analisi della Lingua Parlata_ - MALiP 2026](https://malip.eu/)
+- [Summer School Metodi e Analisi della Lingua Parlata - MALiP 2026](https://malip.eu/)
 - [Seeding the Future - High Quality Education and Care for 0–6 Children](https://www.unibz.it/it/events/seeding-the-future-high-quality-education-and-care-for-06-children)
 - [AILC Lectures on Computational Linguistics 2026](https://www.ai-lc.it/lectures/lectures-2026/)
 - [Recent developments in speech technologies. The Italian perspective in research and industry _Satellite Workshop AISV 2026_](https://drive.google.com/file/d/10746IKbqV1eTcePaPNiv3G-ldcTysBYW/view)
