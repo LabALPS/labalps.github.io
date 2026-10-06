@@ -13,6 +13,13 @@ nav_order: 5
 
 {% include bib_search.liquid %}
 
+## Selected Publications
+
+<div class="publications">
+{% bibliography --group_by none --query @*[selected=true]* %}
+</div>
+
+## All Publications
 <div class="publications">
 
 {% bibliography %}
