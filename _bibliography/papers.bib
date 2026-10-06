@@ -1,3 +1,58 @@
+@inproceedings{cassotti-etal-2026-wikipa,
+    title = "{W}ik{IPA}: Integrating {W}iki{P}ron and Lingua Libre for Multilingual {IPA} Transcription",
+    author = "Cassotti, Pierluigi  and
+      Suchardt, Jacob Lee  and
+      De Cristofaro, Domenico",
+    editor = "Piperidis, Stelios  and
+      Bel, N{\'u}ria  and
+      van den Heuvel, Henk  and
+      Ide, Nancy  and
+      Krek, Simon  and
+      Toral, Antonio",
+    booktitle = "Proceedings of the Fifteenth Language Resources and Evaluation Conference",
+    month = may,
+    year = "2026",
+    address = "Palma de Mallorca, Spain",
+    publisher = "ELRA Language Resource Association",
+    url = "https://aclanthology.org/2026.lrec-1.668/",
+    doi = "10.63317/2am4iw3bfhjb",
+    pages = "8465--8475",
+    abstract = "We present WikIPA, a new multilingual benchmark designed for automatic speech-to-IPA (STIPA) transcription. By integrating human-curated IPA transcriptions from WikiPron with spoken recordings and metadata from Lingua Libre, WikIPA connects textual phonetic representations with real speech across 78 languages. This open resource supports both broad (phonemic) and narrow (phonetic) transcription tasks, enabling fine-grained evaluation of multilingual phonetic transcription systems. WikIPA provides over 289,000 paired entries and serves as a large-scale foundation for STIPA. We benchmark several state-of-the-art STIPA systems, including MultIPA, (Lo)WhIPA, and ZIPA. Results show that ZIPA achieves the lowest mean error rates across most languages, outperforming Whisper- and Wav2Vec-based baselines. Error analyses reveal that remaining discrepancies largely stem from minor phonetic confusions rather than complete transcription failures, emphasizing the challenge of modeling fine-grained articulatory variation. WikIPA thus establishes the first systematic, multilingual evaluation framework for speech-to-IPA transcription and highlights the potential of combining open, community-driven resources to advance STIPA evaluation."
+}
+
+@misc{decristofaro2026southtyrol,
+  author       = {De Cristofaro, Domenico},
+  title        = {South Tyrol SprachAtlas. Republikation mit automatischen Phonemtranskriptionen},
+  year         = {2026},
+  type         = {Dataset},
+  publisher    = {Forschungszentrum Deutscher Sprachatlas},
+  howpublished = {LinguRep -- Das Fachrepositorium des Forschungszentrums Deutscher Sprachatlas},
+  note         = {[Dataset]. Originalquelle: Scheutz, Hannes/Scheutz, Johann (Hrsg.) (2016): Insre Sproch. Deutsche Dialekte in S{\"u}dtirol. Mit dem ersten ``sprechenden'' Dialektatlas auf CD-Rom. Athesia},
+  doi          = {10.57712/lingurep-115103},
+  url          = {https://doi.org/10.57712/lingurep-115103},
+}
+
+@inproceedings{de-cristofaro-etal-2026-blank,
+    title = "Blank-Aware Decoding for Transcript-Free Phoneme Alignment in Low-Resource Languages and Dialects",
+    author = "De Cristofaro, Domenico  and
+      Plank, Barbara  and
+      Vietti, Alessandro",
+    editor = "Hosseini-Kivanani, Nina  and
+      Brutti, Alessio  and
+      Matassoni, Marco  and
+      Dowerah, Sandipana  and
+      Liga, Davide  and
+      Schommer, Christoph",
+    booktitle = "Proceedings of Speech Language Models in Low-Resource Settings: Performance, Evaluation, and Bias Analysis ({SPEAKABLE}) @ {LREC} 2026",
+    month = may,
+    year = "2026",
+    address = "Palma, Mallorca (Spain)",
+    publisher = "ELRA Language Resources Association (ELRA)",
+    url = "https://aclanthology.org/2026.speakable-1.19/",
+    doi = "10.63317/38ff2a2yojww",
+    pages = "174--182",
+    abstract = "We present a blank-aware decoding approach for transcript-free phoneme alignment with CTC-based speech foundation models, designed to improve annotation bootstrapping in low-resource languages. While CTC models provide frame-level phoneme posteriors without requiring transcripts, greedy decoding produces blank-dominated and temporally unstable segmentations that are difficult to correct manually. Our approach introduces two training-free blank-resolution strategies operating directly on CTC logits: (i) confidence-ratio substitution, which promotes competitive non-blank hypotheses relative to the blank symbol, and (ii) recursive context adjustment, which enforces local contextual consistency within blank spans. Experiments on English (TIMIT) and on Sardinian and Tyrolean dialect corpora show consistent improvements in boundary F1 prediction, phoneme duration regularity, and segmentation stability over greedy CTC decoding. Although absolute boundary deviations remain higher than transcript-conditioned aligners, the resulting alignments are structurally coherent and suitable for manual correction. A post-hoc phoneme-class analysis further reveals systematic asymmetries in blank resolution, highlighting complementary roles of local acoustic evidence and contextual cues, and outlining prominising venues for future improvements."
+}
 
 @article{iskarous2025phonetic,
   title={Phonetic information in the vowel spectrum: the meaning of mel-Frequency Cepstral Coefficients},
