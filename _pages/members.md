@@ -51,7 +51,7 @@ PhD Student, Free University of Bozen-Bolzano. My research focuses on low-resour
 
 [**Chiara Bogoni**](https://www.unibz.it/it/faculties/education/phd-linguistics/phd-students/phd/56065-chiara-bogoni)
 
-PhD Student, Free University of Bozen-Bolzano.
+PhD Student, Free University of Bozen-Bolzano. My research field is psycholinguistics, in particular language processing and predictive mechanisms. In my PhD project, I analyze how the prediction of phonological features (specifically suprasegmental cues) influences on-line language processing.
 
 - Chiara.Bogoni@student.unibz.it
 
