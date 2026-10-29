@@ -44,7 +44,8 @@ nav: false
 - Maria Graziano, Lund University
 - Mária Gosy, Eötvös Loránd University
 - Robert Hartsuiker, Ghent University
-- Farhat Jabeen, Bielefeld University 
+- Farhat Jabeen, Bielefeld University
+- Heini Kallio, Tampere University  
 - Loulou Kosmala,  Université Paris-Est Créteil
 - Marta Maffia, University of Naples "L'Orientale"
 - Giuseppe Magistro, Gent University
