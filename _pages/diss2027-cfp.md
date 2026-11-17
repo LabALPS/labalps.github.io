@@ -26,7 +26,7 @@ Submissions are encouraged from all fields that deal with disfluency, paralingui
 - **Notification of acceptance**: <del>13 Nov. 2026</del> <strong style="color: #d9534f;">27 Nov. 2026</strong>
 - **Camera-ready version due**: <del>1 Dec. 2026</del> <strong style="color: #d9534f;">16 Dec. 2026 </strong>
 - **Author registration deadline**: <del>7 Dec. 2026</del> <strong style="color: #d9534f;">18 Dec. 2026</strong>
-- **Registration Deadline**: 4 Jan. 2027
+- **Registration Deadline**: 10 Jan. 2027
 - **DiSS Workshop**: 4-5 Feb. 2027
 
 ---
